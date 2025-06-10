@@ -9,7 +9,7 @@ A simple yet functional flight booking web application where users can search fo
 - **React Router** – For handling navigation between pages.
 - **CSS** – Used for basic styling and layout.
 - **JavaScript (ES6+)** – Core scripting logic.
-- **LocalStorage** – For persistent storage of user data, flight data, and bookings.
+- **LocalStorage & Mock JSON Data** – To simulate backend API functionality.
 
 > Note: No external backend or UI frameworks were used to keep the app lightweight and focused on core logic.
 
@@ -59,7 +59,15 @@ Data Persistence – All data is stored in browser LocalStorage to simulate back
 
 Random Price Generator – Ticket price is automatically generated when booking a flight.
 
+## 🔁 Data Handling
+
+- This app does **not** use a real backend or any public API.
+- All data is **mocked locally** using JSON files and managed with **LocalStorage**.
+- Ensures full simulation of a working app without any server dependencies.
+
 📌 Notes
+No external APIs were used — mock JSON and local storage simulate all interactions.
+
 The UI is kept intentionally simple using plain CSS to prioritize functionality and clarity.
 
 Feel free to customize or enhance the design as needed.
