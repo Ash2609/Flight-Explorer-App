@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "from": "Pune",
+    "to": "Mumbai",
+    "price": 1500,
+    "airline": "IndiGo",
+    "stops": 0,
+    "departure": "08:00",
+    "arrival": "09:00",
+    "seatsAvailable": 50,
+    "seatsBooked": 12
+  },
+  {
+    "id": 2,
+    "from": "Delhi",
+    "to": "Bangalore",
+    "price": 3200,
+    "airline": "Air India",
+    "stops": 1,
+    "departure": "14:00",
+    "arrival": "17:30"
+  },
+  {
+    "id": 2,
+    "from": "Delhi",
+    "to": "Bangalore",
+    "price": 3200,
+    "airline": "Air India",
+    "stops": 1,
+    "departure": "14:00",
+    "arrival": "17:30"
+  },
+  {
+    "id": 2,
+    "from": "Delhi",
+    "to": "Bangalore",
+    "price": 3200,
+    "airline": "Air India",
+    "stops": 1,
+    "departure": "14:00",
+    "arrival": "17:30"
+  },
+  {
+    "id": 3,
+    "from": "Chennai",
+    "to": "Kolkata",
+    "price": 2500,
+    "airline": "SpiceJet",
+    "stops": 0,
+    "departure": "10:30",
+    "arrival": "12:00"
+  },
+  {
+    "id": 4,
+    "from": "Hyderabad",
+    "to": "Ahmedabad",
+    "price": 2800,
+    "airline": "Vistara",
+    "stops": 1,
+    "departure": "16:00",
+    "arrival": "19:00"
+  },
+  {
+    "id": 5,
+    "from": "Kochi",
+    "to": "Goa",
+    "price": 2000,
+    "airline": "GoAir",
+    "stops": 0,
+    "departure": "09:15",
+    "arrival": "10:30"
+  },
+  {
+    "id": 6,
+    "from": "Jaipur",
+    "to": "Lucknow",
+    "price": 1800,
+    "airline": "IndiGo",
+    "stops": 1,
+    "departure": "11:00",
+    "arrival": "14:00"
+  },
+  {
+    "id": 7,
+    "from": "Bangalore",
+    "to": "Pune",
+    "price": 1600,
+    "airline": "Air India",
+    "stops": 0,
+    "departure": "13:00",
+    "arrival": "14:30"
+  },
+  {
+    "id": 8,
+    "from": "Mumbai",
+    "to": "Chennai",
+    "price": 2700,
+    "airline": "SpiceJet",
+    "stops": 1,
+    "departure": "15:00",
+    "arrival": "18:00"
+  },
+  {
+    "id": 9,
+    "from": "Kolkata",
+    "to": "Delhi",
+    "price": 3000,
+    "airline": "Vistara",
+    "stops": 0,
+    "departure": "12:00",
+    "arrival": "14:30"
+  },
+  {
+    "id": 10,
+    "from": "Ahmedabad",
+    "to": "Hyderabad",
+    "price": 2200,
+    "airline": "GoAir",
+    "stops": 1,
+    "departure": "17:00",
+    "arrival": "20:00"
+  }
+]
