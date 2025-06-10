@@ -5,6 +5,7 @@ A simple yet functional flight booking web application where users can search fo
 ## 🚀 Tech Stack
 
 - **React.js** – Frontend library used to build the user interface.
+- **Vite** – Fast build tool and development server.
 - **React Router** – For handling navigation between pages.
 - **CSS** – Used for basic styling and layout.
 - **JavaScript (ES6+)** – Core scripting logic.
@@ -20,8 +21,13 @@ A simple yet functional flight booking web application where users can search fo
    git clone https://github.com/Ash2609/Flight-Explorer-App
    cd Flight-Explorer-App
    npm install
-   npx start dev
+   npm start dev
+   
+      
+Open in Browser:
+   - Visit http://localhost:5173
 
+  
   📸 Demo Video
 A video demonstrating the complete functionality of the app has been added to the GitHub repository.
 
