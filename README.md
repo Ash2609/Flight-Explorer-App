@@ -64,6 +64,13 @@ Random Price Generator – Ticket price is automatically generated when booking 
 - This app does **not** use a real backend or any public API.
 - All data is **mocked locally** using JSON files and managed with **LocalStorage**.
 - Ensures full simulation of a working app without any server dependencies.
+- Signup/Login data is well encrypted using crypto-js
+
+  
+
+https://github.com/user-attachments/assets/28036031-dd93-48a4-846e-ee7c98b80a1b
+
+
 
 📌 Notes
 No external APIs were used — mock JSON and local storage simulate all interactions.
