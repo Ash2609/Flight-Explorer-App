@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { encryptPassword } from "../utils/crypto";
 import FlightLogo from "../assets/Flight-logo.jpg";
+import {Link} from "react-router-dom";
 
 
 const Signup = () => {
